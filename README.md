@@ -21,7 +21,7 @@
 ## Languages and Tools
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+[![IOS](https://img.shields.io/static/v1?label=&message=IOS&color=%23000000&style=for-the-badge&logo=apple&logoColor=%23FFF)](https://)
 [![Cocoapods](https://img.shields.io/badge/Cocoapods-2EA44F?style=for-the-badge&logo=cocoapods&logoColor=%23EE3322)](https://)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
