@@ -8,7 +8,7 @@
 - 📲 IOS Developer
 - 🧑‍🏫 Technician in the design of mobile applications, Universidad Nacional de La Matanza, Argentina.
 
-- 📫 How to reach me **fabianzarate472@gmail.com**
+- 📫 How to reach me **zaratefabian472@gmail.com**
 
 - 📄 Know more about me and my experiences [by downloading my resume](https://drive.google.com/file/d/1yFjcDuy0OhYj6mAuPjUU9r5gYHoA1Yui/view)
 
